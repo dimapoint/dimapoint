@@ -1,5 +1,5 @@
 ## Hi there 👋
-####27. Ingeniería en Informática UCC
+#### 27. Ingeniería en Informática UCC
 
 I like to do things a little differently.
 Fan del tipado fuerte y las dependencias mínimas.
